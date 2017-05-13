@@ -55,4 +55,3 @@ while (1) {
     printf " \e[37m| \e[37mPPS_OUT: \e[32m%0.2f\e[0m \e[37mPPS\e[0m",    $ppsin;
     printf " \e[37m| \e[37mPPS_IN: \e[32m%0.2f\e[0m \e[37mPPS\n\e[0m", $ppsout;
 }
-
